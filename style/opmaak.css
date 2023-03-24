@@ -3,4 +3,13 @@ body {
 }
 h1 {
   color: black;
+  text-align: right;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
 }
